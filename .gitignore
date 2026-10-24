@@ -1,0 +1,10 @@
+# Python & R temporary files
+__pycache__/
+*.pyc
+*.pyo
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+.DS_Store
+Thumbs.db
